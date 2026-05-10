@@ -2,7 +2,9 @@
 Completed all 7 levels of Leviathan wargame.
 
 **Author:** Umesh Penkey
+
 **College:** JNTUACEK
+
 **Platform:** OverTheWire.org
 
 ## Difficulty: 1/10 | Levels: 8 | Platform: Linux/x86
